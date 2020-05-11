@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.heymax.cc/"/>
-  <updated>2018-08-24T14:07:52.854Z</updated>
+  <updated>2020-05-11T18:00:44.020Z</updated>
   <id>https://blog.heymax.cc/</id>
   
   <author>
@@ -17,77 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>常用库分享（未整理）</title>
-    <link href="https://blog.heymax.cc/2018/08/24/libs/"/>
-    <id>https://blog.heymax.cc/2018/08/24/libs/</id>
-    <published>2018-08-24T12:38:29.000Z</published>
-    <updated>2018-08-24T14:07:52.854Z</updated>
+    <title>一个拖更者的日常</title>
+    <link href="https://blog.heymax.cc/2020/05/12/helloworld/"/>
+    <id>https://blog.heymax.cc/2020/05/12/helloworld/</id>
+    <published>2020-05-11T17:58:41.000Z</published>
+    <updated>2020-05-11T18:00:44.020Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="常用库"><a href="#常用库" class="headerlink" title="常用库"></a>常用库</h1><table><thead><tr><th style="text-align:center">库名</th><th style="text-align:center">编写语言</th><th style="text-align:center">适用语言/环境</th><th style="text-align:center">说明</th></tr></thead><tbody><tr><td style="text-align:center"><a href="https://github.com/libharu/libharu" target="_blank" rel="noopener">libHaru</a></td><td style="text-align:center">C</td><td style="text-align:center">C/C#/Ruby/Swift/Delphi</td><td style="text-align:center">PDF</td></tr><tr><td style="text-align:center"><a href="https://github.com/itext" target="_blank" rel="noopener">itext7</a></td><td style="text-align:center">C#/Java</td><td style="text-align:center">C#/Java</td><td style="text-align:center">PDF</td></tr><tr><td style="text-align:center"><a href="https://github.com/mindboards/ev3sources" target="_blank" rel="noopener">EV3Source</a></td><td style="text-align:center">ARM-C</td><td style="text-align:center">Linux-Based</td><td style="text-align:center">LEGO EV3 机器人</td></tr><tr><td style="text-align:center"><a href="https://github.com/tomojitakasu/RTKLIB" target="_blank" rel="noopener">RTKLIB</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">RTK高精度定位</td></tr><tr><td style="text-align:center"><a href="https://github.com/silenceper/wechat" target="_blank" rel="noopener">Wechat SDK for Go</a></td><td style="text-align:center">Go</td><td style="text-align:center">Go</td><td style="text-align:center">微信公众号/服务号后端</td></tr><tr><td style="text-align:center"><a href="https://github.com/copy/v86" target="_blank" rel="noopener">v86</a></td><td style="text-align:center">JS+NodeJS</td><td style="text-align:center">Any</td><td style="text-align:center">Js X86 Emulator</td></tr><tr><td style="text-align:center"><a href="https://github.com/eltorio/RtkGps" target="_blank" rel="noopener">RtkGps</a></td><td style="text-align:center">Java</td><td style="text-align:center">Android</td><td style="text-align:center">安卓端RTK</td></tr></tbody></table><a id="more"></a>  <table><thead><tr><th style="text-align:center"></th><th style="text-align:center"></th><th style="text-align:center"></th><th style="text-align:center"></th></tr></thead><tbody><tr><td style="text-align:center"><a href="https://github.com/novnc/noVNC" target="_blank" rel="noopener">noVNC</a></td><td style="text-align:center">JS+HTML5</td><td style="text-align:center">Any</td><td style="text-align:center">HTML5版本VNC客户端</td></tr><tr><td style="text-align:center"><a href="https://github.com/FreeRDP/FreeRDP" target="_blank" rel="noopener">FreeRDP</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">RDP管理器</td></tr><tr><td style="text-align:center"><a href="https://github.com/shashwatak/satellite-js" target="_blank" rel="noopener">satellite-js</a></td><td style="text-align:center">JS</td><td style="text-align:center">Any</td><td style="text-align:center">SGP4/SDP4计算库并提供坐标变换功能</td></tr><tr><td style="text-align:center"><a href="https://github.com/intel-iot-devkit/mraa" target="_blank" rel="noopener">libmraa</a></td><td style="text-align:center">C/C++</td><td style="text-align:center">C/C++/Python/Java/JS</td><td style="text-align:center">Intel IOT平台低速IO通信</td></tr><tr><td style="text-align:center"><a href="https://github.com/fenlogic/IDE_trial" target="_blank" rel="noopener">IDE_trial</a></td><td style="text-align:center">C</td><td style="text-align:center">Raspberry</td><td style="text-align:center">树莓派IDE通信</td></tr><tr><td style="text-align:center"><a href="https://github.com/andreiw/RaspberryPiPkg" target="_blank" rel="noopener">RaspberryPiPkg</a></td><td style="text-align:center">C</td><td style="text-align:center">Raspberry</td><td style="text-align:center">64-bit Tiano Core UEFI for the Raspberry Pi 3</td></tr><tr><td style="text-align:center"><a href="https://github.com/nodejs/node-chakracore" target="_blank" rel="noopener">node-chakracore</a></td><td style="text-align:center">C++</td><td style="text-align:center">x86/64/ARM</td><td style="text-align:center">基于Chakracore的NodeJS实现</td></tr><tr><td style="text-align:center"><a href="https://github.com/kaonashi-tyc/zi2zi" target="_blank" rel="noopener">zi2zi</a></td><td style="text-align:center">Python</td><td style="text-align:center">Any</td><td style="text-align:center">基于pix2pix与GAN实现的字体特征学习模型</td></tr><tr><td style="text-align:center"><a href="https://github.com/phillipi/pix2pix" target="_blank" rel="noopener">pix2pix</a></td><td style="text-align:center">Python</td><td style="text-align:center">Any</td><td style="text-align:center">基于GAN模型实现的图像转换及生成模型</td></tr><tr><td style="text-align:center"><a href="https://github.com/pspdev/pspsdk" target="_blank" rel="noopener">pspsdk</a></td><td style="text-align:center">汇编/C</td><td style="text-align:center">Any</td><td style="text-align:center">PSP自制程序开发</td></tr><tr><td style="text-align:center"><a href="https://github.com/go-opencv/go-opencv" target="_blank" rel="noopener">go-opencv</a></td><td style="text-align:center">C++</td><td style="text-align:center">Go</td><td style="text-align:center">Go版本的OpenCV实现</td></tr><tr><td style="text-align:center"><a href="https://github.com/megagao/IndoorPos" target="_blank" rel="noopener">IndoorPos</a></td><td style="text-align:center">Java</td><td style="text-align:center">Any</td><td style="text-align:center">基于iBeacon的室内定位实现</td></tr><tr><td style="text-align:center"><a href="https://github.com/liuliu/ccv" target="_blank" rel="noopener">ccv</a></td><td style="text-align:center">C</td><td style="text-align:center">Any</td><td style="text-align:center">图像库</td></tr><tr><td style="text-align:center"><a href="https://github.com/opencv/opencv" target="_blank" rel="noopener">OpenCV</a></td><td style="text-align:center">C/C++</td><td style="text-align:center">Any</td><td style="text-align:center">图像库</td></tr><tr><td style="text-align:center"><a href="http://www.openni.ru/openni-sdk/index.html" target="_blank" rel="noopener">OpenNI</a></td><td style="text-align:center">C/C++</td><td style="text-align:center">C/C++</td><td style="text-align:center">体感通用开源库</td></tr><tr><td style="text-align:center"><a href="https://github.com/PX4" target="_blank" rel="noopener">PX4</a></td><td style="text-align:center">C++</td><td style="text-align:center">x86/ARM</td><td style="text-align:center">无人机主控</td></tr><tr><td style="text-align:center"><a href="https://github.com/ArduPilot/ardupilot" target="_blank" rel="noopener">Ardupilot</a></td><td style="text-align:center">C++</td><td style="text-align:center">x86/ARM</td><td style="text-align:center">无人机主控</td></tr><tr><td style="text-align:center"><a href="https://github.com/Yinzo/SmartQQBot" target="_blank" rel="noopener">SmartQQBot</a></td><td style="text-align:center">Python</td><td style="text-align:center">Any</td><td style="text-align:center">QQ机器人</td></tr><tr><td style="text-align:center"><a href="https://github.com/emgucv/emgucv" target="_blank" rel="noopener">EmguCV</a></td><td style="text-align:center">C/C++/C#</td><td style="text-align:center">.Net</td><td style="text-align:center">OpenCV的.Net实现</td></tr></tbody></table><h1 id="机器学习库"><a href="#机器学习库" class="headerlink" title="机器学习库"></a>机器学习库</h1><table><thead><tr><th style="text-align:center">库名</th><th style="text-align:center">编写语言</th><th style="text-align:center">适用语言/环境</th><th style="text-align:center">说明</th></tr></thead><tbody><tr><td style="text-align:center"><a href="https://github.com/davisking/dlib" target="_blank" rel="noopener">dlib</a></td><td style="text-align:center">C++</td><td style="text-align:center">C++/Python</td><td style="text-align:center">特征点定位&amp;&amp;图像追踪</td></tr><tr><td style="text-align:center"><a href="https://github.com/phillipi/pix2pix" target="_blank" rel="noopener">pix2pix</a></td><td style="text-align:center">Lua</td><td style="text-align:center">Torch</td><td style="text-align:center">基于GAN的图像特征转换</td></tr><tr><td style="text-align:center"><a href="https://github.com/kaonashi-tyc/zi2zi" target="_blank" rel="noopener">zi2zi</a></td><td style="text-align:center">Python</td><td style="text-align:center">Tensorflow</td><td style="text-align:center">基于pix2pix的东方字体特征转换</td></tr><tr><td style="text-align:center"><a href="https://github.com/facebookresearch/Detectron" target="_blank" rel="noopener">Detectron</a></td><td style="text-align:center">Python</td><td style="text-align:center">Python</td><td style="text-align:center">Facebook开发的物体检测库</td></tr><tr><td style="text-align:center"><a href="https://github.com/seetaface/SeetaFaceEngine" target="_blank" rel="noopener">SeetaFaceEngine</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">中科院开发的人脸识别引擎</td></tr><tr><td style="text-align:center"><a href="https://github.com/tornadomeet/mxnet-face" target="_blank" rel="noopener">mxnet-face</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">MxNET</td></tr><tr><td style="text-align:center"><a href="https://github.com/kpzhang93/MTCNN_face_detection_alignment" target="_blank" rel="noopener">MTCNN_face_detection_alignment</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">基于MTCNN的人脸检测及关键点检测</td></tr><tr><td style="text-align:center"><a href="https://github.com/stdcoutzyx/DeepID_FaceClassify" target="_blank" rel="noopener">DeepID_FaceClassify</a></td><td style="text-align:center">Python</td><td style="text-align:center">Any</td><td style="text-align:center">基于DeepID的人脸验证算法实现</td></tr><tr><td style="text-align:center"><a href="https://github.com/happynear/FaceVerification" target="_blank" rel="noopener">FaceVerification</a></td><td style="text-align:center">C++</td><td style="text-align:center">Caffe</td><td style="text-align:center">人脸检测及对齐</td></tr><tr><td style="text-align:center"><a href="https://github.com/ShiqiYu/libfacedetection" target="_blank" rel="noopener">libfacedetection</a></td><td style="text-align:center">未知</td><td style="text-align:center">C++</td><td style="text-align:center">人脸检测及关键点提取</td></tr><tr><td style="text-align:center"><a href="https://github.com/davidsandberg/facenet" target="_blank" rel="noopener">facenet</a></td><td style="text-align:center">Python</td><td style="text-align:center">Tensorflow</td><td style="text-align:center">人脸识别</td></tr><tr><td style="text-align:center"><a href="https://github.com/torch/torch7" target="_blank" rel="noopener">Torch7</a></td><td style="text-align:center">C++/Lua</td><td style="text-align:center">Lua</td><td style="text-align:center">机器学习库</td></tr><tr><td style="text-align:center"><a href="https://github.com/tensorflow/tensorflow" target="_blank" rel="noopener">Tensorflow</a></td><td style="text-align:center">C++/Python</td><td style="text-align:center">Python</td><td style="text-align:center">机器学习库</td></tr><tr><td style="text-align:center"><a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener">caffe-windows</a></td><td style="text-align:center">C++</td><td style="text-align:center">Winodws</td><td style="text-align:center">机器学习库</td></tr><tr><td style="text-align:center"><a href="https://github.com/macournoyer/neuralconvo" target="_blank" rel="noopener">neuralconvo</a></td><td style="text-align:center">lua</td><td style="text-align:center">torch</td><td style="text-align:center">Seq2Seq模型</td></tr><tr><td style="text-align:center"><a href="https://github.com/BVLC/caffe" target="_blank" rel="noopener">Caffe</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">机器学习库</td></tr><tr><td style="text-align:center"><a href="https://github.com/BVLC/caffe" target="_blank" rel="noopener">Caffe</a></td><td style="text-align:center">C++</td><td style="text-align:center">Any</td><td style="text-align:center">微软Caffe</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h1 id="以后争取每日不鸽好叭"><a href="#以后争取每日不鸽好叭" class="headerlink" title="以后争取每日不鸽好叭"></a>以后争取每日不鸽好叭</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"Good Liver!\n"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;常用库&quot;&gt;&lt;a href=&quot;#常用库&quot; class=&quot;headerlink&quot; title=&quot;常用库&quot;&gt;&lt;/a&gt;常用库&lt;/h1&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;库名&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;编写语言&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;适用语言/环境&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;说明&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/libharu/libharu&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;libHaru&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;C&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;C/C#/Ruby/Swift/Delphi&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;PDF&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/itext&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;itext7&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;C#/Java&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;C#/Java&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;PDF&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/mindboards/ev3sources&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;EV3Source&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;ARM-C&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Linux-Based&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;LEGO EV3 机器人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/tomojitakasu/RTKLIB&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RTKLIB&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;C++&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Any&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;RTK高精度定位&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/silenceper/wechat&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wechat SDK for Go&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Go&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Go&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;微信公众号/服务号后端&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/copy/v86&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;v86&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;JS+NodeJS&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Any&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Js X86 Emulator&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/eltorio/RtkGps&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RtkGps&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Java&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;Android&lt;/td&gt;
-&lt;td style=&quot;text-align:center&quot;&gt;安卓端RTK&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+      
+      
+        &lt;h1 id=&quot;以后争取每日不鸽好叭&quot;&gt;&lt;a href=&quot;#以后争取每日不鸽好叭&quot; class=&quot;headerlink&quot; title=&quot;以后争取每日不鸽好叭&quot;&gt;&lt;/a&gt;以后争取每日不鸽好叭&lt;/h1&gt;&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t
+      
     
     </summary>
     
-      <category term="Programming" scheme="https://blog.heymax.cc/categories/Programming/"/>
+      <category term="Life" scheme="https://blog.heymax.cc/categories/Life/"/>
     
     
-      <category term="libs" scheme="https://blog.heymax.cc/tags/libs/"/>
+      <category term="life" scheme="https://blog.heymax.cc/tags/life/"/>
     
   </entry>
   
