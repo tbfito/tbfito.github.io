@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://tbfito.github.io/"/>
+  <link href="https://blog.heymax.cc/"/>
   <updated>2018-08-24T14:07:52.854Z</updated>
-  <id>https://tbfito.github.io/</id>
+  <id>https://blog.heymax.cc/</id>
   
   <author>
     <name>Eax</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>常用库分享（未整理）</title>
-    <link href="https://tbfito.github.io/2018/08/24/libs/"/>
-    <id>https://tbfito.github.io/2018/08/24/libs/</id>
+    <link href="https://blog.heymax.cc/2018/08/24/libs/"/>
+    <id>https://blog.heymax.cc/2018/08/24/libs/</id>
     <published>2018-08-24T12:38:29.000Z</published>
     <updated>2018-08-24T14:07:52.854Z</updated>
     
@@ -84,10 +84,10 @@
     
     </summary>
     
-      <category term="Programming" scheme="https://tbfito.github.io/categories/Programming/"/>
+      <category term="Programming" scheme="https://blog.heymax.cc/categories/Programming/"/>
     
     
-      <category term="libs" scheme="https://tbfito.github.io/tags/libs/"/>
+      <category term="libs" scheme="https://blog.heymax.cc/tags/libs/"/>
     
   </entry>
   
