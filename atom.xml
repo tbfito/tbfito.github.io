@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tbfito.github.io/"/>
-  <updated>2018-09-17T14:44:33.462Z</updated>
+  <updated>2018-08-24T14:07:52.854Z</updated>
   <id>https://tbfito.github.io/</id>
   
   <author>
@@ -15,91 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>近期打算开源的一些Emmm小玩意儿</title>
-    <link href="https://tbfito.github.io/2018/09/17/open-sources/"/>
-    <id>https://tbfito.github.io/2018/09/17/open-sources/</id>
-    <published>2018-09-17T14:22:50.000Z</published>
-    <updated>2018-09-17T14:44:33.462Z</updated>
-    
-    <content type="html"><![CDATA[<p>Emmm,在开源浪潮的大趋势下,大海撅腚开源掉硬盘里发霉的特定产物(明明就是懒),详细代码有待整理,这里先列个清单出(tou)来(lan)吧!</p><table><thead><tr><th style="text-align:center">项目名称</th><th style="text-align:center">实现方案</th><th style="text-align:center">完成程度</th></tr></thead><tbody><tr><td style="text-align:center">双摄像头360度摄像机</td><td style="text-align:center">Js(WebGL)</td><td style="text-align:center">基本完成(代码遗失需补档)</td></tr><tr><td style="text-align:center">wifi摄像头</td><td style="text-align:center">linux(mips/mipsel)+mjpg-streamer</td><td style="text-align:center">基本完成(代码遗失需补档)</td></tr><tr><td style="text-align:center">锐捷/电信校园网认证路由器</td><td style="text-align:center">Openwrt+Mentohust+pppd</td><td style="text-align:center">基本完成(代码遗失需补档)</td></tr><tr><td style="text-align:center">体感飞行器</td><td style="text-align:center">C++(Kinect SDK)+Anotech</td><td style="text-align:center">初步完成(代码遗失需补档)</td></tr><tr><td style="text-align:center">顽皮的小飞机</td><td style="text-align:center">双手</td><td style="text-align:center">不可能完成(代码整理后上传)</td></tr><tr><td style="text-align:center">rtklib-arm</td><td style="text-align:center">C++</td><td style="text-align:center">不可能完成(代码整理后上传)</td></tr><tr><td style="text-align:center">rtklibController-Py</td><td style="text-align:center">Python</td><td style="text-align:center">完成(代码整理后上传)</td></tr><tr><td style="text-align:center">Rainmeter-WinRT</td><td style="text-align:center">C++(VS2017)</td><td style="text-align:center">完成(代码整理后上传)</td></tr><tr><td style="text-align:center">大规模字体生成</td><td style="text-align:center">Tensorflow(pix2pix,zi2zi)</td><td style="text-align:center">没有显卡 真香!</td></tr></tbody></table>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Emmm,在开源浪潮的大趋势下,大海撅腚开源掉硬盘里发霉的特定产物(明明就是懒),详细代码有待整理,这里先列个清单出(tou)来(lan)吧!&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;项目名称&lt;/th&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>一些有趣的网站&amp;&amp;软件</title>
-    <link href="https://tbfito.github.io/2018/09/02/some-fun-webs/"/>
-    <id>https://tbfito.github.io/2018/09/02/some-fun-webs/</id>
-    <published>2018-09-02T14:58:44.000Z</published>
-    <updated>2018-09-02T15:27:06.121Z</updated>
-    
-    <content type="html"><![CDATA[<ol><li><a href="https://bellard.org/jslinux/" target="_blank" rel="noopener">JSLinux</a><br>作者:Fabrice Bellard<br>使用WebAssembly及胶连JS编写的一套完整的x86及RISC-V的模拟器系统,可以在线运行内核为4.12/4.15的linux系统以及Windows 2000/Free DOS等.  </li><li><a href="http://copy.sh/v86/" target="_blank" rel="noopener">v86</a><br>作者:Fabian Hemmer<br>同样是基于QEMU编写的一套基于JS的完整模拟器,可提供的系统更加丰富,涵盖了ReactOS,FreeBSD,Windows 95/98等.  </li><li><p><a href="http://caca.zoy.org/wiki/toilet" target="_blank" rel="noopener">toilet</a><br>作者:toilet project<br>使用libcaca库来实现在命令行模式下的对文字的边框处理<br><img src="http://caca.zoy.org/static/toilet-sample.png" alt="toilet-sample">  </p><a id="more"></a>  </li><li><p><a href="https://packages.debian.org/wheezy/fortune-zh" target="_blank" rel="noopener">fortune-zh</a><br>作者:LI Daobing<br>在Linux命令行下随机输出一首唐诗,可以配合lolcat实现彩色效果<br><img src="https://www.linuxidc.com/upload/2015_12/15122820216731.png" alt="fortune-demo">  </p></li><li><a href="https://github.com/busyloop/lolcat" target="_blank" rel="noopener">lolcat</a><br>作者:m-o-e<br>使linux命令行彩色化,可以配合toilet/figlet制作VPS个性欢迎界面<br><img src="https://raw.githubusercontent.com/busyloop/lolcat/master/ass/screenshot.png" alt="lolcat-demo">  </li></ol><p>未完待续</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://bellard.org/jslinux/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JSLinux&lt;/a&gt;&lt;br&gt;作者:Fabrice Bellard&lt;br&gt;使用WebAssembly及胶连JS编写的一套完整的x86及RISC-V的模拟器系统,可以在线运行内核为4.12/4.15的linux系统以及Windows 2000/Free DOS等.  &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://copy.sh/v86/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;v86&lt;/a&gt;&lt;br&gt;作者:Fabian Hemmer&lt;br&gt;同样是基于QEMU编写的一套基于JS的完整模拟器,可提供的系统更加丰富,涵盖了ReactOS,FreeBSD,Windows 95/98等.  &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://caca.zoy.org/wiki/toilet&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;toilet&lt;/a&gt;&lt;br&gt;作者:toilet project&lt;br&gt;使用libcaca库来实现在命令行模式下的对文字的边框处理&lt;br&gt;&lt;img src=&quot;http://caca.zoy.org/static/toilet-sample.png&quot; alt=&quot;toilet-sample&quot;&gt;  &lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Programming" scheme="https://tbfito.github.io/categories/Programming/"/>
-    
-    
-      <category term="webs" scheme="https://tbfito.github.io/tags/webs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Chrome Extension 常用插件</title>
-    <link href="https://tbfito.github.io/2018/08/31/chrome-extensions/"/>
-    <id>https://tbfito.github.io/2018/08/31/chrome-extensions/</id>
-    <published>2018-08-31T03:08:44.000Z</published>
-    <updated>2018-09-02T15:00:00.697Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>下文格式为 : <strong>插件名称 : 功能&amp;&amp;备注</strong></p></blockquote><h1 id="日常使用类"><a href="#日常使用类" class="headerlink" title="日常使用类"></a>日常使用类</h1><ol><li>Infinity 新标签页 : 可以自定义的新标签页</li><li>CIRC : 一个基于Chrome应用平台的IRC客户端</li><li>Gliffy Diagrams : 一个基于Chrome应用平台的流程图绘制工具</li><li>Google 文档的离线功能 : Google 离线文档</li><li>Text Mode : 使当前页面仅显示文字 , 不加载图片以节约流量</li><li>uBlock Origin : 网络请求过滤(广告过滤)</li><li>h264ify : 强制Youtube以H.264格式播放</li><li>Office Online : 在浏览器中查看 编辑和创建 Office 文件  </li><li>云盘万能钥匙 : 自动识别百度网盘提取密码 , 标识已失效的网盘链接  <a id="more"></a>  </li></ol><h1 id="开发类"><a href="#开发类" class="headerlink" title="开发类"></a>开发类</h1><ol><li>CSS Peeper : 提取当前鼠标指针选择的CSS样式</li><li>GNOME Shell integration : Ubuntu GNOME 插件</li><li>Page Ruler : 快速测量页面框选元素大小</li><li>Windows Resizer : 改变窗口大小至指定分辨率</li><li>Octotree : 树形展示Github项目代码</li><li>Isometric Contrbutions : 更为直观地查看Github贡献量  </li></ol><h1 id="买买买"><a href="#买买买" class="headerlink" title="买买买"></a>买买买</h1><ol><li>什么值得买 : Emmm</li><li>喵喵折+ : Emmm</li><li>一起惠购物助手 : 需前往178hui网站下载 , 并启用开发者模式加载插件</li><li>购物党 : Tampermonkey插件  </li></ol><h1 id="Tampermonkey脚本"><a href="#Tampermonkey脚本" class="headerlink" title="Tampermonkey脚本"></a>Tampermonkey脚本</h1><ol><li>AC-baidu : 重定向优化百度搜狗谷歌搜索&amp;&amp;去广告</li><li>CNKI 中国知网 PDF 全文下载（特制版）: 下载CNKI-PDF</li><li>EX-百度云盘 : 获取百度云当前文件直链</li><li>破解VIP会员视频集合 : 观看VIP影视</li><li>网页限制解除(改) : 解除无法复制粘贴等一些网页限制</li><li>视频站启用html5播放器 : 强制使用HTML5播放器以节省系统资源</li><li>解除B站区域限制 : 观看锁区影片</li><li>贴吧全能助手 : 免登录看帖</li><li>跳过网站等待、验证码及登录 : 节约时间 but有副作用</li><li>闲鱼搜索框+去首图二维码 : 电脑端闲鱼搜索</li></ol>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;下文格式为 : &lt;strong&gt;插件名称 : 功能&amp;amp;&amp;amp;备注&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&quot;日常使用类&quot;&gt;&lt;a href=&quot;#日常使用类&quot; class=&quot;headerlink&quot; title=&quot;日常使用类&quot;&gt;&lt;/a&gt;日常使用类&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;Infinity 新标签页 : 可以自定义的新标签页&lt;/li&gt;
-&lt;li&gt;CIRC : 一个基于Chrome应用平台的IRC客户端&lt;/li&gt;
-&lt;li&gt;Gliffy Diagrams : 一个基于Chrome应用平台的流程图绘制工具&lt;/li&gt;
-&lt;li&gt;Google 文档的离线功能 : Google 离线文档&lt;/li&gt;
-&lt;li&gt;Text Mode : 使当前页面仅显示文字 , 不加载图片以节约流量&lt;/li&gt;
-&lt;li&gt;uBlock Origin : 网络请求过滤(广告过滤)&lt;/li&gt;
-&lt;li&gt;h264ify : 强制Youtube以H.264格式播放&lt;/li&gt;
-&lt;li&gt;Office Online : 在浏览器中查看 编辑和创建 Office 文件  &lt;/li&gt;
-&lt;li&gt;云盘万能钥匙 : 自动识别百度网盘提取密码 , 标识已失效的网盘链接
-    
-    </summary>
-    
-      <category term="Chrome" scheme="https://tbfito.github.io/categories/Chrome/"/>
-    
-    
-      <category term="chrome" scheme="https://tbfito.github.io/tags/chrome/"/>
-    
-  </entry>
   
   <entry>
     <title>常用库分享（未整理）</title>
