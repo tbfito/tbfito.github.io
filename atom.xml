@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.heymax.cc/"/>
-  <updated>2020-05-11T18:32:33.489Z</updated>
+  <updated>2020-05-12T06:22:12.454Z</updated>
   <id>https://blog.heymax.cc/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HEXO 发布后丢失CNAME的解决方案</title>
+    <link href="https://blog.heymax.cc/2020/05/12/hexo-cname/"/>
+    <id>https://blog.heymax.cc/2020/05/12/hexo-cname/</id>
+    <published>2020-05-12T06:20:23.000Z</published>
+    <updated>2020-05-12T06:22:12.454Z</updated>
+    
+    <content type="html"><![CDATA[<p>将CNAME文件放置到source文件夹即可</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;将CNAME文件放置到source文件夹即可&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Programming" scheme="https://blog.heymax.cc/categories/Programming/"/>
+    
+    
+      <category term="tech" scheme="https://blog.heymax.cc/tags/tech/"/>
+    
+  </entry>
   
   <entry>
     <title>一个拖更者的日常</title>
